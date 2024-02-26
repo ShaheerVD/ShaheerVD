@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning Python and any project that solves problems or makes life easier<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning Software development and studying towards a BSC Mathematics and Computer Science<br>💬 Ask me about Tech,Art and Aviation
+🔭 I’m currently working on learning Python and any project that solves problems <br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently in first year of a BSC Mathematics and Computer Science<br>💬 Ask me about Tech,Art and Aviation
 
 
 # 💻 Tech Stack:
